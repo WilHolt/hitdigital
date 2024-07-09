@@ -19,7 +19,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "app",
+      "prefix": "hit",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
@@ -105,5 +105,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "4646f3eb-b16e-40d9-9077-2d94ab5dbfe9"
   }
 }
